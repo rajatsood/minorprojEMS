@@ -1,1 +1,2 @@
-# minorprojEMS
+# EMS
+Minor Project
