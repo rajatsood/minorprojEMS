@@ -42,21 +42,14 @@ a{
 	top: 10%;
 }
 
-/*#4 Signup Form*/
-.signup-form{
-	width: 30%;
-	left: 65%;
-	top: 40px;	
-}
-
-/*#3 Contact Form*/
+/*#4 Contact Form*/
 .contact-form{
 	width: 30%;
 	left: 65%;
 	top: 40px;	
 }
 
-/*#4 About*/
+/*#5 About*/
 .about{
 	width: 40%;
 	left: 55%;
@@ -64,7 +57,7 @@ a{
 	font-size: 1.25em
 }
 
-/*#5 Welcome */
+/*#6 Welcome */
 
 .Welcome{
 	margin: 3% 0%;
